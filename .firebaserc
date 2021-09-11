@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "firstproject-113"
+  },
+  "targets": {
+    "firstproject-113": {
+      "hosting": {
+        "test": [
+          "hostingtestapp"
+        ]
+      }
+    }
+  }
+}
